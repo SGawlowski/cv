@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+}
+
+hr {
+    border-style: none;
+    border-bottom: dotted;
+    border-width: 10px;
+    border-collapse: collapse;
+    border-color: gray;
+    width: 10%;
+
+}
+
+table {
+
+}
